@@ -1,3 +1,3 @@
-# CSS Codes Repository
+# Custom Stylesheets
 
 - [Custom Scrollbar](./custom-scrollbar)
